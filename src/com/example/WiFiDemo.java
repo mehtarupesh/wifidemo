@@ -150,6 +150,7 @@ public class WiFiDemo extends Activity {
 	}
 
 
+	// perform scan	
 	public void periodicScan(){
 
 		Log.d(TAG, "periodicScan() wifi.startScan()");
